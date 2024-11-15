@@ -1,0 +1,83 @@
+2024-11-15 05:28:03 INFO  TC001_AccountRegistrationTest:16 - *****Starting TC001_AccountRegistrationTest******
+2024-11-15 05:28:03 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2024-11-15 05:28:03 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register link
+2024-11-15 05:28:03 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2024-11-15 05:28:05 INFO  TC001_AccountRegistrationTest:39 - Validation expected message..
+2024-11-15 05:28:05 INFO  TC001_AccountRegistrationTest:51 - Test TC001_Completed
+2024-11-15 05:28:08 INFO  TC002_LoginTest:16 - *****Starting TC_002_LoginTest*****
+2024-11-15 05:28:09 INFO  TC002_LoginTest:39 - *****Completed TC_002_LoginTest*****
+2024-11-15 05:28:13 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 05:28:15 INFO  TC003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2024-11-15 05:28:15 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 05:28:17 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 05:28:19 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 05:28:30 INFO  TC003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2024-11-15 05:28:30 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 05:29:28 INFO  TC001_AccountRegistrationTest:16 - *****Starting TC001_AccountRegistrationTest******
+2024-11-15 05:29:28 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2024-11-15 05:29:29 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register link
+2024-11-15 05:29:29 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2024-11-15 05:29:30 INFO  TC001_AccountRegistrationTest:39 - Validation expected message..
+2024-11-15 05:29:30 INFO  TC001_AccountRegistrationTest:51 - Test TC001_Completed
+2024-11-15 05:29:34 INFO  TC002_LoginTest:16 - *****Starting TC_002_LoginTest*****
+2024-11-15 05:29:35 INFO  TC002_LoginTest:39 - *****Completed TC_002_LoginTest*****
+2024-11-15 05:45:13 INFO  TC001_AccountRegistrationTest:16 - *****Starting TC001_AccountRegistrationTest******
+2024-11-15 05:45:13 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2024-11-15 05:45:14 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register link
+2024-11-15 05:45:14 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2024-11-15 05:45:15 INFO  TC001_AccountRegistrationTest:39 - Validation expected message..
+2024-11-15 05:45:15 INFO  TC001_AccountRegistrationTest:51 - Test TC001_Completed
+2024-11-15 05:45:19 INFO  TC002_LoginTest:16 - *****Starting TC_002_LoginTest*****
+2024-11-15 05:45:21 INFO  TC002_LoginTest:39 - *****Completed TC_002_LoginTest*****
+2024-11-15 05:45:26 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 05:45:28 INFO  TC003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2024-11-15 05:45:28 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 05:45:30 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 05:45:31 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 05:45:42 INFO  TC003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2024-11-15 05:45:42 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 06:21:23 INFO  TC001_AccountRegistrationTest:16 - *****Starting TC001_AccountRegistrationTest******
+2024-11-15 06:21:24 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2024-11-15 06:21:24 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register link
+2024-11-15 06:21:24 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2024-11-15 06:21:26 INFO  TC001_AccountRegistrationTest:39 - Validation expected message..
+2024-11-15 06:21:26 INFO  TC001_AccountRegistrationTest:51 - Test TC001_Completed
+2024-11-15 06:21:30 INFO  TC002_LoginTest:16 - *****Starting TC_002_LoginTest*****
+2024-11-15 06:21:31 INFO  TC002_LoginTest:39 - *****Completed TC_002_LoginTest*****
+2024-11-15 06:21:36 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 06:21:38 INFO  TC003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2024-11-15 06:21:38 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 06:21:40 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 06:21:41 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 06:21:53 INFO  TC003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2024-11-15 06:21:53 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 06:22:53 INFO  TC001_AccountRegistrationTest:16 - *****Starting TC001_AccountRegistrationTest******
+2024-11-15 06:22:53 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2024-11-15 06:22:55 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register link
+2024-11-15 06:22:55 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2024-11-15 06:22:56 INFO  TC001_AccountRegistrationTest:39 - Validation expected message..
+2024-11-15 06:22:56 INFO  TC001_AccountRegistrationTest:51 - Test TC001_Completed
+2024-11-15 06:23:04 INFO  TC002_LoginTest:16 - *****Starting TC_002_LoginTest*****
+2024-11-15 06:23:06 INFO  TC002_LoginTest:39 - *****Completed TC_002_LoginTest*****
+2024-11-15 06:23:14 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 06:23:16 INFO  TC003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2024-11-15 06:23:16 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 06:23:18 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 06:23:21 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 06:23:33 INFO  TC003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2024-11-15 06:23:33 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 06:34:53 INFO  TC001_AccountRegistrationTest:16 - *****Starting TC001_AccountRegistrationTest******
+2024-11-15 06:34:53 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link
+2024-11-15 06:34:54 INFO  TC001_AccountRegistrationTest:23 - Clicked on Register link
+2024-11-15 06:34:54 INFO  TC001_AccountRegistrationTest:27 - Providing customer details...
+2024-11-15 06:34:55 INFO  TC001_AccountRegistrationTest:39 - Validation expected message..
+2024-11-15 06:34:55 INFO  TC001_AccountRegistrationTest:51 - Test TC001_Completed
+2024-11-15 06:34:59 INFO  TC002_LoginTest:16 - *****Starting TC_002_LoginTest*****
+2024-11-15 06:35:00 INFO  TC002_LoginTest:39 - *****Completed TC_002_LoginTest*****
+2024-11-15 06:35:05 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 06:35:07 INFO  TC003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2024-11-15 06:35:07 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 06:35:09 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 06:35:11 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-11-15 06:35:22 INFO  TC003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2024-11-15 06:35:22 INFO  TC003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
